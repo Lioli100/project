@@ -1,0 +1,1190 @@
+[
+    {
+        "title": "Cadastro de filiado",
+        "description": "Como administrador, quero cadastrar um novo filiado com seus dados pessoais e profissionais para manter o controle da associação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados do filiado no banco",
+        "description": "Tarefa relacionada à história US1.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para cadastro",
+        "description": "Tarefa relacionada à história US1.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar formulário no frontend",
+        "description": "Tarefa relacionada à história US1.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Validar campos obrigatórios",
+        "description": "Tarefa relacionada à história US1.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de cadastro",
+        "description": "Tarefa relacionada à história US1.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Edição e exclusão de filiado",
+        "description": "Como administrador, quero visualizar, editar e excluir filiados para manter os dados atualizados.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para edição",
+        "description": "Tarefa relacionada à história US1.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para exclusão",
+        "description": "Tarefa relacionada à história US1.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de edição no frontend",
+        "description": "Tarefa relacionada à história US1.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de edição e exclusão",
+        "description": "Tarefa relacionada à história US1.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Visualização de perfil de filiado",
+        "description": "Como filiado, quero acessar meus dados e documentos para acompanhar minha situação na associação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para visualização",
+        "description": "Tarefa relacionada à história US1.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização no frontend",
+        "description": "Tarefa relacionada à história US1.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de visualização",
+        "description": "Tarefa relacionada à história US1.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Upload de documentos",
+        "description": "Como administrador, quero fazer upload de documentos necessários para a filiação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados para documentos",
+        "description": "Tarefa relacionada à história US2.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para upload",
+        "description": "Tarefa relacionada à história US2.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de upload no frontend",
+        "description": "Tarefa relacionada à história US2.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Validar tipos de documentos",
+        "description": "Tarefa relacionada à história US2.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de upload",
+        "description": "Tarefa relacionada à história US2.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Validação de documentos",
+        "description": "Como administrador, quero validar os documentos enviados para garantir a conformidade.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de validação de documentos",
+        "description": "Tarefa relacionada à história US2.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de validação no frontend",
+        "description": "Tarefa relacionada à história US2.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de validação",
+        "description": "Tarefa relacionada à história US2.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Download e visualização de documentos",
+        "description": "Como filiado, quero visualizar e fazer download dos documentos enviados.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para download",
+        "description": "Tarefa relacionada à história US2.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização no frontend",
+        "description": "Tarefa relacionada à história US2.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de download e visualização",
+        "description": "Tarefa relacionada à história US2.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Definir planos de mensalidades",
+        "description": "Como administrador, quero definir planos de mensalidades (mensal/anual) para os filiados.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados para planos",
+        "description": "Tarefa relacionada à história US3.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para definição de planos",
+        "description": "Tarefa relacionada à história US3.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de definição de planos no frontend",
+        "description": "Tarefa relacionada à história US3.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de definição de planos",
+        "description": "Tarefa relacionada à história US3.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Registrar pagamentos",
+        "description": "Como administrador, quero registrar os pagamentos realizados pelos filiados.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados para pagamentos",
+        "description": "Tarefa relacionada à história US3.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para registro de pagamentos",
+        "description": "Tarefa relacionada à história US3.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de registro de pagamentos no frontend",
+        "description": "Tarefa relacionada à história US3.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de registro de pagamentos",
+        "description": "Tarefa relacionada à história US3.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Gerar boletos ou links de pagamento",
+        "description": "Como administrador, quero gerar boletos ou links de pagamento para facilitar o pagamento das mensalidades.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Integrar com serviço de geração de boletos",
+        "description": "Tarefa relacionada à história US3.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para geração de boletos",
+        "description": "Tarefa relacionada à história US3.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de geração de boletos no frontend",
+        "description": "Tarefa relacionada à história US3.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de geração de boletos",
+        "description": "Tarefa relacionada à história US3.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Visualizar histórico de pagamentos",
+        "description": "Como filiado, quero visualizar meu histórico de pagamentos para acompanhar minhas mensalidades.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para visualização de histórico",
+        "description": "Tarefa relacionada à história US3.4",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização de histórico no frontend",
+        "description": "Tarefa relacionada à história US3.4",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de visualização de histórico",
+        "description": "Tarefa relacionada à história US3.4",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Enviar e-mail de cobrança",
+        "description": "Como administrador, quero enviar e-mails de cobrança para os filiados com mensalidades em atraso.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Integrar com serviço de envio de e-mails",
+        "description": "Tarefa relacionada à história US4.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de envio de e-mails",
+        "description": "Tarefa relacionada à história US4.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar templates de e-mails",
+        "description": "Tarefa relacionada à história US4.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar envio de e-mails",
+        "description": "Tarefa relacionada à história US4.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Enviar WhatsApp automático",
+        "description": "Como administrador, quero enviar mensagens automáticas via WhatsApp para os filiados com mensalidades em atraso.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Integrar com API de WhatsApp",
+        "description": "Tarefa relacionada à história US4.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de envio de mensagens",
+        "description": "Tarefa relacionada à história US4.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar templates de mensagens",
+        "description": "Tarefa relacionada à história US4.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar envio de mensagens",
+        "description": "Tarefa relacionada à história US4.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Enviar SMS",
+        "description": "Como administrador, quero enviar SMS para os filiados com mensalidades em atraso.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Integrar com serviço de envio de SMS",
+        "description": "Tarefa relacionada à história US4.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de envio de SMS",
+        "description": "Tarefa relacionada à história US4.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar templates de SMS",
+        "description": "Tarefa relacionada à história US4.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar envio de SMS",
+        "description": "Tarefa relacionada à história US4.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Configurar templates de mensagens",
+        "description": "Como administrador, quero configurar templates de mensagens para facilitar o envio de notificações.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de configuração de templates",
+        "description": "Tarefa relacionada à história US4.4",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar configuração de templates",
+        "description": "Tarefa relacionada à história US4.4",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Relatório de inadimplência",
+        "description": "Como administrador, quero gerar relatórios de inadimplência para acompanhar os filiados com mensalidades em atraso.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de geração de relatórios",
+        "description": "Tarefa relacionada à história US5.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização de relatórios",
+        "description": "Tarefa relacionada à história US5.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar geração de relatórios",
+        "description": "Tarefa relacionada à história US5.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Relatório de filiados ativos",
+        "description": "Como administrador, quero gerar relatórios de filiados ativos para acompanhar a situação da associação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de geração de relatórios",
+        "description": "Tarefa relacionada à história US5.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização de relatórios",
+        "description": "Tarefa relacionada à história US5.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar geração de relatórios",
+        "description": "Tarefa relacionada à história US5.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Dashboard financeiro",
+        "description": "Como administrador, quero visualizar um dashboard financeiro para acompanhar as receitas e despesas da associação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de geração de dashboard",
+        "description": "Tarefa relacionada à história US5.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização de dashboard",
+        "description": "Tarefa relacionada à história US5.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar visualização de dashboard",
+        "description": "Tarefa relacionada à história US5.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar eventos e reuniões",
+        "description": "Como administrador, quero criar eventos e reuniões para organizar as atividades da associação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados para eventos",
+        "description": "Tarefa relacionada à história US6.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para criação de eventos",
+        "description": "Tarefa relacionada à história US6.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de criação de eventos no frontend",
+        "description": "Tarefa relacionada à história US6.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar criação de eventos",
+        "description": "Tarefa relacionada à história US6.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Notificar participantes",
+        "description": "Como administrador, quero notificar os participantes dos eventos e reuniões.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Integrar com serviço de envio de notificações",
+        "description": "Tarefa relacionada à história US6.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de envio de notificações",
+        "description": "Tarefa relacionada à história US6.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar envio de notificações",
+        "description": "Tarefa relacionada à história US6.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Visualizar calendário",
+        "description": "Como filiado, quero visualizar o calendário de eventos e reuniões para acompanhar as atividades da associação.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para visualização de calendário",
+        "description": "Tarefa relacionada à história US6.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de visualização de calendário no frontend",
+        "description": "Tarefa relacionada à história US6.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar visualização de calendário",
+        "description": "Tarefa relacionada à história US6.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Login com e-mail/senha",
+        "description": "Como usuário, quero fazer login no sistema utilizando meu e-mail e senha.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados para usuários",
+        "description": "Tarefa relacionada à história US7.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar endpoint de API para login",
+        "description": "Tarefa relacionada à história US7.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de login no frontend",
+        "description": "Tarefa relacionada à história US7.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de login",
+        "description": "Tarefa relacionada à história US7.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Recuperação de senha",
+        "description": "Como usuário, quero recuperar minha senha caso eu a esqueça.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de recuperação de senha",
+        "description": "Tarefa relacionada à história US7.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar interface de recuperação de senha no frontend",
+        "description": "Tarefa relacionada à história US7.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar fluxo de recuperação de senha",
+        "description": "Tarefa relacionada à história US7.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Perfis de acesso",
+        "description": "Como administrador, quero definir perfis de acesso para os diferentes tipos de usuários (admin, diretoria, filiado).",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar modelo de dados para perfis",
+        "description": "Tarefa relacionada à história US7.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar lógica de definição de perfis",
+        "description": "Tarefa relacionada à história US7.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar definição de perfis",
+        "description": "Tarefa relacionada à história US7.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar wireframes no Figma",
+        "description": "Como designer, quero criar wireframes no Figma para definir a interface do sistema.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar wireframes das principais telas",
+        "description": "Tarefa relacionada à história US8.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Validar wireframes com stakeholders",
+        "description": "Tarefa relacionada à história US8.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Validar protótipos com stakeholders",
+        "description": "Como designer, quero validar os protótipos com os stakeholders para garantir que atendem às necessidades.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar protótipos navegáveis",
+        "description": "Tarefa relacionada à história US8.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Realizar sessões de validação",
+        "description": "Tarefa relacionada à história US8.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Configurar ambiente de desenvolvimento",
+        "description": "Como desenvolvedor, quero configurar o ambiente de desenvolvimento para iniciar o trabalho.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Configurar repositório Git",
+        "description": "Tarefa relacionada à história US9.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Configurar dependências e ferramentas",
+        "description": "Tarefa relacionada à história US9.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar ambiente de desenvolvimento",
+        "description": "Tarefa relacionada à história US9.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Deploy contínuo com GitHub Actions",
+        "description": "Como desenvolvedor, quero configurar deploy contínuo com GitHub Actions para automatizar o processo.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar workflow de deploy",
+        "description": "Tarefa relacionada à história US9.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar deploy contínuo",
+        "description": "Tarefa relacionada à história US9.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Backup automático do banco",
+        "description": "Como administrador, quero configurar backup automático do banco de dados para garantir a segurança dos dados.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Configurar serviço de backup",
+        "description": "Tarefa relacionada à história US9.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar backup automático",
+        "description": "Tarefa relacionada à história US9.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar board no GitHub Projects",
+        "description": "Como gestor, quero criar um board no GitHub Projects para organizar as tarefas do projeto.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Configurar colunas do board",
+        "description": "Tarefa relacionada à história US10.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Adicionar épicos e histórias",
+        "description": "Tarefa relacionada à história US10.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar organização do board",
+        "description": "Tarefa relacionada à história US10.1",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Definir sprints e milestones",
+        "description": "Como gestor, quero definir sprints e milestones para organizar o trabalho.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Planejar sprints",
+        "description": "Tarefa relacionada à história US10.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Definir milestones",
+        "description": "Tarefa relacionada à história US10.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar organização das sprints",
+        "description": "Tarefa relacionada à história US10.2",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testes automatizados",
+        "description": "Como desenvolvedor, quero criar testes automatizados para garantir a qualidade do sistema.",
+        "labels": [
+            "User Story",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar testes unitários",
+        "description": "Tarefa relacionada à história US10.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Criar testes de integração",
+        "description": "Tarefa relacionada à história US10.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    },
+    {
+        "title": "Testar cobertura de testes",
+        "description": "Tarefa relacionada à história US10.3",
+        "labels": [
+            "Task",
+            "Backlog"
+        ],
+        "status": "Backlog"
+    }
+]

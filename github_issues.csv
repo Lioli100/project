@@ -1,0 +1,133 @@
+Title,Description,Labels,Status
+Cadastro de filiado,"Como administrador, quero cadastrar um novo filiado com seus dados pessoais e profissionais para manter o controle da associação.","User Story, Backlog",Backlog
+Criar modelo de dados do filiado no banco,Tarefa relacionada à história US1.1,"Task, Backlog",Backlog
+Criar endpoint de API para cadastro,Tarefa relacionada à história US1.1,"Task, Backlog",Backlog
+Criar formulário no frontend,Tarefa relacionada à história US1.1,"Task, Backlog",Backlog
+Validar campos obrigatórios,Tarefa relacionada à história US1.1,"Task, Backlog",Backlog
+Testar fluxo de cadastro,Tarefa relacionada à história US1.1,"Task, Backlog",Backlog
+Edição e exclusão de filiado,"Como administrador, quero visualizar, editar e excluir filiados para manter os dados atualizados.","User Story, Backlog",Backlog
+Criar endpoint de API para edição,Tarefa relacionada à história US1.2,"Task, Backlog",Backlog
+Criar endpoint de API para exclusão,Tarefa relacionada à história US1.2,"Task, Backlog",Backlog
+Criar interface de edição no frontend,Tarefa relacionada à história US1.2,"Task, Backlog",Backlog
+Testar fluxo de edição e exclusão,Tarefa relacionada à história US1.2,"Task, Backlog",Backlog
+Visualização de perfil de filiado,"Como filiado, quero acessar meus dados e documentos para acompanhar minha situação na associação.","User Story, Backlog",Backlog
+Criar endpoint de API para visualização,Tarefa relacionada à história US1.3,"Task, Backlog",Backlog
+Criar interface de visualização no frontend,Tarefa relacionada à história US1.3,"Task, Backlog",Backlog
+Testar fluxo de visualização,Tarefa relacionada à história US1.3,"Task, Backlog",Backlog
+Upload de documentos,"Como administrador, quero fazer upload de documentos necessários para a filiação.","User Story, Backlog",Backlog
+Criar modelo de dados para documentos,Tarefa relacionada à história US2.1,"Task, Backlog",Backlog
+Criar endpoint de API para upload,Tarefa relacionada à história US2.1,"Task, Backlog",Backlog
+Criar interface de upload no frontend,Tarefa relacionada à história US2.1,"Task, Backlog",Backlog
+Validar tipos de documentos,Tarefa relacionada à história US2.1,"Task, Backlog",Backlog
+Testar fluxo de upload,Tarefa relacionada à história US2.1,"Task, Backlog",Backlog
+Validação de documentos,"Como administrador, quero validar os documentos enviados para garantir a conformidade.","User Story, Backlog",Backlog
+Criar lógica de validação de documentos,Tarefa relacionada à história US2.2,"Task, Backlog",Backlog
+Criar interface de validação no frontend,Tarefa relacionada à história US2.2,"Task, Backlog",Backlog
+Testar fluxo de validação,Tarefa relacionada à história US2.2,"Task, Backlog",Backlog
+Download e visualização de documentos,"Como filiado, quero visualizar e fazer download dos documentos enviados.","User Story, Backlog",Backlog
+Criar endpoint de API para download,Tarefa relacionada à história US2.3,"Task, Backlog",Backlog
+Criar interface de visualização no frontend,Tarefa relacionada à história US2.3,"Task, Backlog",Backlog
+Testar fluxo de download e visualização,Tarefa relacionada à história US2.3,"Task, Backlog",Backlog
+Definir planos de mensalidades,"Como administrador, quero definir planos de mensalidades (mensal/anual) para os filiados.","User Story, Backlog",Backlog
+Criar modelo de dados para planos,Tarefa relacionada à história US3.1,"Task, Backlog",Backlog
+Criar endpoint de API para definição de planos,Tarefa relacionada à história US3.1,"Task, Backlog",Backlog
+Criar interface de definição de planos no frontend,Tarefa relacionada à história US3.1,"Task, Backlog",Backlog
+Testar fluxo de definição de planos,Tarefa relacionada à história US3.1,"Task, Backlog",Backlog
+Registrar pagamentos,"Como administrador, quero registrar os pagamentos realizados pelos filiados.","User Story, Backlog",Backlog
+Criar modelo de dados para pagamentos,Tarefa relacionada à história US3.2,"Task, Backlog",Backlog
+Criar endpoint de API para registro de pagamentos,Tarefa relacionada à história US3.2,"Task, Backlog",Backlog
+Criar interface de registro de pagamentos no frontend,Tarefa relacionada à história US3.2,"Task, Backlog",Backlog
+Testar fluxo de registro de pagamentos,Tarefa relacionada à história US3.2,"Task, Backlog",Backlog
+Gerar boletos ou links de pagamento,"Como administrador, quero gerar boletos ou links de pagamento para facilitar o pagamento das mensalidades.","User Story, Backlog",Backlog
+Integrar com serviço de geração de boletos,Tarefa relacionada à história US3.3,"Task, Backlog",Backlog
+Criar endpoint de API para geração de boletos,Tarefa relacionada à história US3.3,"Task, Backlog",Backlog
+Criar interface de geração de boletos no frontend,Tarefa relacionada à história US3.3,"Task, Backlog",Backlog
+Testar fluxo de geração de boletos,Tarefa relacionada à história US3.3,"Task, Backlog",Backlog
+Visualizar histórico de pagamentos,"Como filiado, quero visualizar meu histórico de pagamentos para acompanhar minhas mensalidades.","User Story, Backlog",Backlog
+Criar endpoint de API para visualização de histórico,Tarefa relacionada à história US3.4,"Task, Backlog",Backlog
+Criar interface de visualização de histórico no frontend,Tarefa relacionada à história US3.4,"Task, Backlog",Backlog
+Testar fluxo de visualização de histórico,Tarefa relacionada à história US3.4,"Task, Backlog",Backlog
+Enviar e-mail de cobrança,"Como administrador, quero enviar e-mails de cobrança para os filiados com mensalidades em atraso.","User Story, Backlog",Backlog
+Integrar com serviço de envio de e-mails,Tarefa relacionada à história US4.1,"Task, Backlog",Backlog
+Criar lógica de envio de e-mails,Tarefa relacionada à história US4.1,"Task, Backlog",Backlog
+Criar templates de e-mails,Tarefa relacionada à história US4.1,"Task, Backlog",Backlog
+Testar envio de e-mails,Tarefa relacionada à história US4.1,"Task, Backlog",Backlog
+Enviar WhatsApp automático,"Como administrador, quero enviar mensagens automáticas via WhatsApp para os filiados com mensalidades em atraso.","User Story, Backlog",Backlog
+Integrar com API de WhatsApp,Tarefa relacionada à história US4.2,"Task, Backlog",Backlog
+Criar lógica de envio de mensagens,Tarefa relacionada à história US4.2,"Task, Backlog",Backlog
+Criar templates de mensagens,Tarefa relacionada à história US4.2,"Task, Backlog",Backlog
+Testar envio de mensagens,Tarefa relacionada à história US4.2,"Task, Backlog",Backlog
+Enviar SMS,"Como administrador, quero enviar SMS para os filiados com mensalidades em atraso.","User Story, Backlog",Backlog
+Integrar com serviço de envio de SMS,Tarefa relacionada à história US4.3,"Task, Backlog",Backlog
+Criar lógica de envio de SMS,Tarefa relacionada à história US4.3,"Task, Backlog",Backlog
+Criar templates de SMS,Tarefa relacionada à história US4.3,"Task, Backlog",Backlog
+Testar envio de SMS,Tarefa relacionada à história US4.3,"Task, Backlog",Backlog
+Configurar templates de mensagens,"Como administrador, quero configurar templates de mensagens para facilitar o envio de notificações.","User Story, Backlog",Backlog
+Criar interface de configuração de templates,Tarefa relacionada à história US4.4,"Task, Backlog",Backlog
+Testar configuração de templates,Tarefa relacionada à história US4.4,"Task, Backlog",Backlog
+Relatório de inadimplência,"Como administrador, quero gerar relatórios de inadimplência para acompanhar os filiados com mensalidades em atraso.","User Story, Backlog",Backlog
+Criar lógica de geração de relatórios,Tarefa relacionada à história US5.1,"Task, Backlog",Backlog
+Criar interface de visualização de relatórios,Tarefa relacionada à história US5.1,"Task, Backlog",Backlog
+Testar geração de relatórios,Tarefa relacionada à história US5.1,"Task, Backlog",Backlog
+Relatório de filiados ativos,"Como administrador, quero gerar relatórios de filiados ativos para acompanhar a situação da associação.","User Story, Backlog",Backlog
+Criar lógica de geração de relatórios,Tarefa relacionada à história US5.2,"Task, Backlog",Backlog
+Criar interface de visualização de relatórios,Tarefa relacionada à história US5.2,"Task, Backlog",Backlog
+Testar geração de relatórios,Tarefa relacionada à história US5.2,"Task, Backlog",Backlog
+Dashboard financeiro,"Como administrador, quero visualizar um dashboard financeiro para acompanhar as receitas e despesas da associação.","User Story, Backlog",Backlog
+Criar lógica de geração de dashboard,Tarefa relacionada à história US5.3,"Task, Backlog",Backlog
+Criar interface de visualização de dashboard,Tarefa relacionada à história US5.3,"Task, Backlog",Backlog
+Testar visualização de dashboard,Tarefa relacionada à história US5.3,"Task, Backlog",Backlog
+Criar eventos e reuniões,"Como administrador, quero criar eventos e reuniões para organizar as atividades da associação.","User Story, Backlog",Backlog
+Criar modelo de dados para eventos,Tarefa relacionada à história US6.1,"Task, Backlog",Backlog
+Criar endpoint de API para criação de eventos,Tarefa relacionada à história US6.1,"Task, Backlog",Backlog
+Criar interface de criação de eventos no frontend,Tarefa relacionada à história US6.1,"Task, Backlog",Backlog
+Testar criação de eventos,Tarefa relacionada à história US6.1,"Task, Backlog",Backlog
+Notificar participantes,"Como administrador, quero notificar os participantes dos eventos e reuniões.","User Story, Backlog",Backlog
+Integrar com serviço de envio de notificações,Tarefa relacionada à história US6.2,"Task, Backlog",Backlog
+Criar lógica de envio de notificações,Tarefa relacionada à história US6.2,"Task, Backlog",Backlog
+Testar envio de notificações,Tarefa relacionada à história US6.2,"Task, Backlog",Backlog
+Visualizar calendário,"Como filiado, quero visualizar o calendário de eventos e reuniões para acompanhar as atividades da associação.","User Story, Backlog",Backlog
+Criar endpoint de API para visualização de calendário,Tarefa relacionada à história US6.3,"Task, Backlog",Backlog
+Criar interface de visualização de calendário no frontend,Tarefa relacionada à história US6.3,"Task, Backlog",Backlog
+Testar visualização de calendário,Tarefa relacionada à história US6.3,"Task, Backlog",Backlog
+Login com e-mail/senha,"Como usuário, quero fazer login no sistema utilizando meu e-mail e senha.","User Story, Backlog",Backlog
+Criar modelo de dados para usuários,Tarefa relacionada à história US7.1,"Task, Backlog",Backlog
+Criar endpoint de API para login,Tarefa relacionada à história US7.1,"Task, Backlog",Backlog
+Criar interface de login no frontend,Tarefa relacionada à história US7.1,"Task, Backlog",Backlog
+Testar fluxo de login,Tarefa relacionada à história US7.1,"Task, Backlog",Backlog
+Recuperação de senha,"Como usuário, quero recuperar minha senha caso eu a esqueça.","User Story, Backlog",Backlog
+Criar lógica de recuperação de senha,Tarefa relacionada à história US7.2,"Task, Backlog",Backlog
+Criar interface de recuperação de senha no frontend,Tarefa relacionada à história US7.2,"Task, Backlog",Backlog
+Testar fluxo de recuperação de senha,Tarefa relacionada à história US7.2,"Task, Backlog",Backlog
+Perfis de acesso,"Como administrador, quero definir perfis de acesso para os diferentes tipos de usuários (admin, diretoria, filiado).","User Story, Backlog",Backlog
+Criar modelo de dados para perfis,Tarefa relacionada à história US7.3,"Task, Backlog",Backlog
+Criar lógica de definição de perfis,Tarefa relacionada à história US7.3,"Task, Backlog",Backlog
+Testar definição de perfis,Tarefa relacionada à história US7.3,"Task, Backlog",Backlog
+Criar wireframes no Figma,"Como designer, quero criar wireframes no Figma para definir a interface do sistema.","User Story, Backlog",Backlog
+Criar wireframes das principais telas,Tarefa relacionada à história US8.1,"Task, Backlog",Backlog
+Validar wireframes com stakeholders,Tarefa relacionada à história US8.1,"Task, Backlog",Backlog
+Validar protótipos com stakeholders,"Como designer, quero validar os protótipos com os stakeholders para garantir que atendem às necessidades.","User Story, Backlog",Backlog
+Criar protótipos navegáveis,Tarefa relacionada à história US8.2,"Task, Backlog",Backlog
+Realizar sessões de validação,Tarefa relacionada à história US8.2,"Task, Backlog",Backlog
+Configurar ambiente de desenvolvimento,"Como desenvolvedor, quero configurar o ambiente de desenvolvimento para iniciar o trabalho.","User Story, Backlog",Backlog
+Configurar repositório Git,Tarefa relacionada à história US9.1,"Task, Backlog",Backlog
+Configurar dependências e ferramentas,Tarefa relacionada à história US9.1,"Task, Backlog",Backlog
+Testar ambiente de desenvolvimento,Tarefa relacionada à história US9.1,"Task, Backlog",Backlog
+Deploy contínuo com GitHub Actions,"Como desenvolvedor, quero configurar deploy contínuo com GitHub Actions para automatizar o processo.","User Story, Backlog",Backlog
+Criar workflow de deploy,Tarefa relacionada à história US9.2,"Task, Backlog",Backlog
+Testar deploy contínuo,Tarefa relacionada à história US9.2,"Task, Backlog",Backlog
+Backup automático do banco,"Como administrador, quero configurar backup automático do banco de dados para garantir a segurança dos dados.","User Story, Backlog",Backlog
+Configurar serviço de backup,Tarefa relacionada à história US9.3,"Task, Backlog",Backlog
+Testar backup automático,Tarefa relacionada à história US9.3,"Task, Backlog",Backlog
+Criar board no GitHub Projects,"Como gestor, quero criar um board no GitHub Projects para organizar as tarefas do projeto.","User Story, Backlog",Backlog
+Configurar colunas do board,Tarefa relacionada à história US10.1,"Task, Backlog",Backlog
+Adicionar épicos e histórias,Tarefa relacionada à história US10.1,"Task, Backlog",Backlog
+Testar organização do board,Tarefa relacionada à história US10.1,"Task, Backlog",Backlog
+Definir sprints e milestones,"Como gestor, quero definir sprints e milestones para organizar o trabalho.","User Story, Backlog",Backlog
+Planejar sprints,Tarefa relacionada à história US10.2,"Task, Backlog",Backlog
+Definir milestones,Tarefa relacionada à história US10.2,"Task, Backlog",Backlog
+Testar organização das sprints,Tarefa relacionada à história US10.2,"Task, Backlog",Backlog
+Testes automatizados,"Como desenvolvedor, quero criar testes automatizados para garantir a qualidade do sistema.","User Story, Backlog",Backlog
+Criar testes unitários,Tarefa relacionada à história US10.3,"Task, Backlog",Backlog
+Criar testes de integração,Tarefa relacionada à história US10.3,"Task, Backlog",Backlog
+Testar cobertura de testes,Tarefa relacionada à história US10.3,"Task, Backlog",Backlog
