@@ -1,0 +1,28 @@
+# Tipo de commit:
+# feat:     Uma nova funcionalidade
+# fix:      Correção de bug
+# docs:     Alterações na documentação
+# style:    Formatação, sem alteração de código funcional
+# refactor: Refatoração de código, sem mudança de comportamento
+# test:     Adição ou modificação de testes
+# chore:    Tarefas de manutenção (build, configs, etc.)
+
+# Estrutura do commit:
+# <type>[optional scope]!: <description>
+#
+# [optional body]
+#
+# [optional footer(s)]
+
+# Exemplo:
+# feat(core): adiciona estrutura inicial do projeto com arquivos de configuração
+#
+# Inclui arquivos CSV, JSON, script de importação e README com estrutura de épicos e sprints.
+#
+# Refs: #1, #2
+
+<type>[optional scope]!: <description>
+
+[optional body]
+
+[optional footer(s)]

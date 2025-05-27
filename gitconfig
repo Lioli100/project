@@ -1,0 +1,6 @@
+
+[commit]
+    template = .commit-template.txt
+
+[alias]
+    cm = commit -t .commit-template.txt
