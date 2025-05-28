@@ -1,7 +1,7 @@
 
-# Landing Page LioliDev
+# Sistema - AFISCOPR
 
-Projeto inicial para apresentação dos meus trabalhos.
+Projeto inicial para gerenciamento das demandas da AFISCOPR.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>;
@@ -19,8 +19,18 @@ Projeto inicial para apresentação dos meus trabalhos.
 <br>
 
 <p align="center">
-  <img alt="Landing Page da LioliDev" src="./_assets/previwer.png" width="100%">
+  <img alt="Sistema da AFISCOPR desenvolvido pela LioliDev" src="./_assets/previwer.png" width="100%">
 </p>
+
+## 📁 Estrutura do Projeto
+afiscopr/
+│
+├── dados/                # Dados brutos e tratados
+├── notebooks/            # Análises exploratórias e relatórios
+├── scripts/              # Scripts de ETL e automações
+├── visualizacoes/        # Gráficos e dashboards
+├── README.md             # Este arquivo
+└── requirements.txt      # Dependências do projeto
 
 ## 🚀 Tecnologias
 
@@ -42,10 +52,22 @@ Baixe este repositório e com seu terminal, entre no diretório
 2. Após, instale as extensões;
 3. Execute o com o Live Server.
 
+## Como Contribuir
+1. Faça um fork do repositório;
+2. Crie uma branch com sua feature: git checkout -b minha-feature;
+3. Faça commit das suas alterações: git commit -m 'Minha nova feature';
+4. Faça push para a branch: git push origin minha-feature;
+5. Abra um Pull Request.
+
+## 🔗 Links Úteis
+. Portal do TCE-PR
+. Siconfi - STN
+. IBGE Cidades
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [this link](http://127.0.0.1:5500/index.html#home). É necessário ter conta no [Figma](https://figma.com) para acessa-lo.
 
 ## :memo: License
 
-Esse projeto não está sob licença MIT.
+Este projeto está licenciado sob a MIT License.
