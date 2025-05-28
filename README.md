@@ -1,7 +1,6 @@
-
 # Sistema - AFISCOPR
 
-Projeto inicial para gerenciamento das demandas da AFISCOPR.
+Projeto inicial para gerenciamento das demandas da AFISCOPR, bem como: agenda, controle de mensalidades, filiados, documentação, controle financeiro etc.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>;
@@ -52,7 +51,7 @@ Baixe este repositório e com seu terminal, entre no diretório
 2. Após, instale as extensões;
 3. Execute o com o Live Server.
 
-## Como Contribuir
+## 📌 Como Contribuir
 1. Faça um fork do repositório;
 2. Crie uma branch com sua feature: git checkout -b minha-feature;
 3. Faça commit das suas alterações: git commit -m 'Minha nova feature';
